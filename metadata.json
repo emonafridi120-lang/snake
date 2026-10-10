@@ -1,0 +1,6 @@
+{
+  "name": "Classic Snake & Live Commentator",
+  "description": "Classic Google Snake browser game with smart AI auto-play pathfinding and an entertaining English male voice commentator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
